@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+tr {	
+	color: none;
+	width: 25px;
+	height: 50px;
+}
+td {
+	border: 4px solid black;
+}
+table {
+	min-width: 500px;
+	margin: 0 auto;}
+	.left {
+		border-left: none;
+	}
+	.right {
+		border-right: none;
+	}
+	.bottom{
+		border-bottom: none;
+	}
+	.left-bottom{
+		border-bottom: none;
+	    border-left: white;}
+	.right-bottom{
+		border-bottom: none;
+	    border-right: none;}
+	.left-top{
+		border-left: none;
+		border-top: none;
+	}
+	.top{
+		border-top: none;
+	}
+	.right-top{
+		border-right: none;
+		border-top: none;
+	}
